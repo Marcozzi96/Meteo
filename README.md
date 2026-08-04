@@ -1,4 +1,4 @@
-# AGENTS.md — Meteo Oggi
+#Meteo Oggi
 
 ## Scopo del progetto
 Piccola web app per le previsioni meteo che mostra:
